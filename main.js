@@ -1,3 +1,6 @@
+//Realizar las operaciones Eliminar y Editar.
+//Encontrar el error y justificar
+
 function validateForm() {
   let email = document.getElementById("email").value;
   let name = document.getElementById("nombre").value;
@@ -62,4 +65,5 @@ function addData() {
         document.getElementById("nombre").value = "";
         document.getElementById("documento").value = "";        
     }
+
 }
