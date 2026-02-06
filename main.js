@@ -15,6 +15,7 @@ function validateForm() {
     alert("Por favor, ingrese un correo electrónico válido.");
     return false;
   }
+  return true;
 }
 
 function showData() {
@@ -67,3 +68,4 @@ function addData() {
     }
 
 }
+
