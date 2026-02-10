@@ -82,5 +82,12 @@ Actividad 4: Promises
 Agregar una descripción de Promises y luego implementar la siguiente función utilizando Promises:
 
 * Crear una promesa que reciba una cadena y si esta finaliza en vocal devolver con el resolve la vocal, en caso contrario en el reject retornar ‘el caracter no es una vocal’. Se deben tener encuenta las vocales en minúsculas y en mayúsculas.
+
+Actividad 5: Async/Await
+Agregar una descripción de Async/Await y luego implementar la siguiente función utilizando Async/Await:
+* Crear una función asíncrona que reciba un número y retorne el doble del número después de 2 segundos. Utilizar async/await para manejar la promesa.
+
+
 */
+
 
